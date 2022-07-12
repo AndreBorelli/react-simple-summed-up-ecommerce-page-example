@@ -21,7 +21,7 @@
     also a calculation of value (including interest) in certain payment types. The project also avoids the occurrence 
     of logic problems when using the site that would occur if some precautions were not taken during the development of the code.
 
-    Styled-components;
+    Styled-components.
 
 
 
